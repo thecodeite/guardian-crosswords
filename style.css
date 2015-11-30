@@ -1,0 +1,8 @@
+#header, #comments, .meta__extras, .content__labels, .content__headline, .crossword__links, .crossword-optout, .discussion__top-border, .fc-container, .l-footer, .crossword__clue, .crossword__clues-header {
+    display: none;
+}
+
+.crossword__clue--selected {
+    display: block;
+}
+
