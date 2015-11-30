@@ -1,0 +1,24 @@
+#wrapper {
+    width: auto;
+}
+
+#header {
+    display: none;
+}
+
+#promo {
+    display: none;
+}
+
+#article-header {
+    display: none;
+}
+
+#content .article-attributes {
+    display: none;
+}
+
+#box {
+    margin-top: 40px;
+}
+
